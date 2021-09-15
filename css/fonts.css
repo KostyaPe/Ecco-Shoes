@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Gotham-bold";
+    src: url("../fonts/GothamPro-Bold.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Gotham-medium";
+    src: url("../fonts/GothamPro-Medium.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Gotham-regular";
+    src: url("../fonts/GothamPro.ttf");
+    font-display: swap;
+}
